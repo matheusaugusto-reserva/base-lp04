@@ -164,7 +164,7 @@
 }
 }/* End custom CSS */
 /* Start custom CSS *//*CÃ³digo padrÃ£o pÃ¡ginas*/
-html, body{overflow-x: hidden !important;}
+
 
 p:last-child{margin-bottom:0px;}
 
@@ -202,13 +202,7 @@ p{
 } 
 
 
-/*barra de rolagem*/
-body::-webkit-scrollbar {width: 12px;}
-
-body::-webkit-scrollbar-track {background: #282828;}
-
-body::-webkit-scrollbar-thumb {background-image: linear-gradient(0deg, #F04E23, #F04E23);
-  border-radius: 10px; border: 3px solid #000000}/* End custom CSS */
+/* End custom CSS */
 /* Start Custom Fonts CSS */@font-face {
 	font-family: 'Perfectly Nineties';
 	font-style: normal;
